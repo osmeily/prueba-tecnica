@@ -1,0 +1,11 @@
+
+.tabla{
+    color: rgb(53, 52, 52);
+    border: 1px solid rgb(0, 0, 0);
+    width: 100%;
+    align-content: center;
+    text-align: center;
+    margin-top: 5%; 
+    padding-right: 4%;
+    background-color: white;
+}

@@ -1,0 +1,1 @@
+export const url = "https://menus-pizita.herokuapp.com/menu/";
